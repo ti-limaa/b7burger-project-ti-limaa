@@ -11,8 +11,7 @@ Projeto de landing page inspirado em um site de restaurante, desenvolvido como p
 - HTML5
 - CSS3
 - Google Fonts
-- Flexbox
-- CSS Grid
+
 
 ## 🎯 Objetivos do Projeto
 
